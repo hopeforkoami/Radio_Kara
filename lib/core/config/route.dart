@@ -1,0 +1,20 @@
+class AppRoute {
+  static const String home = "/",
+      splashScreen = "/splashScreen",
+      onboarding = "/onboarding",
+      auth = "/auth",
+      waitingRegister = "/waiting-register",
+      profile = "/profile",
+      search = "/search",
+      crisisList = "/crisisList",
+      reportCrisis = "/reportCrisis",
+      makeReport = "/makeReportPage",
+      emergencyList = "/emergencyList",
+      reportList = "/reportList",
+      reportDetails = "/reportDetails",
+      loadCamera = "/load_camera",
+      recordingCamera = "/recording_camera",
+      loadAudio = "/load_audio",
+      loadWriting = "/load_writing",
+      stats = "/stats";
+}
